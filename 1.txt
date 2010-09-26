@@ -1,3 +1,9 @@
+commit faef539da0c31f2d248f2a7a3bd0b5ff141d5697
+Author: Cosmin Titei <mjoollnir@gmail.com>
+Date:   Sun Sep 26 21:07:37 2010 +0300
+
+    5th commit
+
 commit e8323b09322a1f2cce669516e059bdd4017e6aa1
 Author: Cosmin Titei <mjoollnir@gmail.com>
 Date:   Sun Sep 26 21:00:59 2010 +0300
