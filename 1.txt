@@ -1,8 +1,21 @@
+commit cda3ed6c1971aca31f8617b6469414237965ac98
+Merge: faef539 9d4de9f
+Author: Cosmin Titei <mjoollnir@gmail.com>
+Date:   Sun Sep 26 21:08:30 2010 +0300
+
+    6th commit
+
 commit faef539da0c31f2d248f2a7a3bd0b5ff141d5697
 Author: Cosmin Titei <mjoollnir@gmail.com>
 Date:   Sun Sep 26 21:07:37 2010 +0300
 
     5th commit
+
+commit 9d4de9f6eece70a6a35c9c6cc379e32400f88997
+Author: mjoollnir <mjoollnir@gmail.com>
+Date:   Sun Sep 26 11:02:54 2010 -0700
+
+    online commit
 
 commit e8323b09322a1f2cce669516e059bdd4017e6aa1
 Author: Cosmin Titei <mjoollnir@gmail.com>
