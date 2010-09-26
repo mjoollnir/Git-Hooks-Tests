@@ -1,0 +1,11 @@
+commit 9fadd9e073b1828361a5fbcffa326c9a04cfdc00
+Author: Cosmin Titei <mjoollnir@gmail.com>
+Date:   Sun Sep 26 20:40:55 2010 +0300
+
+    second commit
+
+commit 3a182e52844eb8a0fa6056e6ad522d3d6df7219a
+Author: Cosmin Titei <mjoollnir@gmail.com>
+Date:   Sun Sep 26 14:09:26 2010 +0300
+
+    first commit
